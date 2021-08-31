@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amiraElmergawy.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning PHP, SQL, and improving my frontend development skills.
+- 🌱 I’m currently learning Backend web development skills, and improving my frontend development skills.
 - 📫 How to reach me : -email: amiraelmergawy@gmail.com
                         -tel: +20-0111-206-6286
 
