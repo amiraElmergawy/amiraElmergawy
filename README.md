@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @amiraElmergawy.
 - 👀 I’m interested in web development and Enterprise applications development.
 - 🌱 I’m currently learning Backend web development with java, and improving my frontend development skills.
-- 📫 How to reach me : -email: amiraelmergawy@gmail.com
+- 📫 How to reach me : email: amiraelmergawy@gmail.com
+-                      LinkedIn :https://www.linkedin.com/in/%D9%90%D9%90amiraelmergawy
                         
 
 <!---
