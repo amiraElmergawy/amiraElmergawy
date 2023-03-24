@@ -3,8 +3,6 @@
 
 - 🌱 I'm a Teaching assistant at ITI (Information Technology Institute)
 
-- 👨‍💻 All of my projects are available at [https://amiraelmergawy.github.io/AmiraElmergawy_Portfolio/](https://amiraelmergawy.github.io/AmiraElmergawy_Portfolio/)
-
 - 📫 How to reach me **amiraelmergawy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
