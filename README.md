@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amira Elmergawy</h1>
 <h3 align="center">Creative FullStack Developer</h3>
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I'm a Teaching assistant at ITI (Information Technology Institute)
 
 - 👨‍💻 All of my projects are available at [https://amiraelmergawy.github.io/AmiraElmergawy_Portfolio/](https://amiraelmergawy.github.io/AmiraElmergawy_Portfolio/)
 
