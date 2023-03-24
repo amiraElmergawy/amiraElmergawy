@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amira Elmergawy</h1>
-<h3 align="center">Creative FullStack Developer</h3>
+<h3 align="center">Creative Full Stack Developer</h3>
 
 - 🌱 I'm a Teaching assistant at ITI (Information Technology Institute)
 
