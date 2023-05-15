@@ -9,7 +9,7 @@
 - I'm a Teaching Assistant at Information Technology Institute(ITI)😎  
   
 
-- I’m currently learning more about Java🤩  
+- I’m currently learning more about Web Development🤩  
   
 
 - #### *The more that you read, the more things you will know. The more that you learn, the more places you’ll go.*  
