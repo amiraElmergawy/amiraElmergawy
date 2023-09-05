@@ -6,7 +6,7 @@
 ### <div align="center">I'm Amira, a full-stack web developer 👨‍💻</div>  
   
 
-- I'm a Teaching Assistant at Information Technology Institute(ITI)😎  
+- I'm a Technical Instructor at Information Technology Institute(ITI)😎  
   
 
 - I’m currently learning more about Web Development🤩  
