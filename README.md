@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Amira, a full-stack web developer 👨‍💻</div>  
+### <div align="center">I'm Amira, a software developer 👨‍💻</div>  
   
 
-- I'm a Technical Instructor at Information Technology Institute(ITI)😎  
+- I'm a Technical Instructor at the Information Technology Institute(ITI) & a software developer at an international company😎.
   
 
-- I’m currently learning more about Web Development🤩  
+<!--- I’m currently learning more about Software Development🤩 --> 
   
 
-- #### *The more that you read, the more things you will know. The more that you learn, the more places you’ll go.*  
+- #### *The more you read, the more you will know. The more you learn, the more places you’ll go.*  
   
 
 <br/>  
