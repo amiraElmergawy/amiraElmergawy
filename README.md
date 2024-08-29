@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Amira, a software developer 👨‍💻</div>  
+### <div align="center">I'm Amira, Software Developer 👨‍💻</div>  
   
 
 - I'm a Technical Instructor at the Information Technology Institute(ITI) & a software developer at an international company😎.
